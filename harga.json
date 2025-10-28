@@ -17,7 +17,7 @@
     {
       "id": 3,
       "name": "Bahan_up_dabis.zip",
-      "price": 1000,
+      "price": 1200,
       "filename": "Bahan_up_dabis.zip",
       "url": "https://github.com/Rehan999-tn/db/raw/main/file/Bahan_up_dabis.zip"
     },
@@ -27,6 +27,13 @@
       "price": 200,
       "filename": "case_enchtml_telegram_bot.zip",
       "url": "https://github.com/Rehan999-tn/db/raw/main/file/case_enchtml_telegram_bot.zip"
+    },
+    {
+      "id": 5,
+      "name": "Function_Private_Staff.zip",
+      "price": 1500,
+      "filename": "Function_Private_Staff.zip",
+      "url": "https://github.com/Rehan999-tn/db/raw/main/file/Function_Private_Staff.zip"
     }
   ]
 }
